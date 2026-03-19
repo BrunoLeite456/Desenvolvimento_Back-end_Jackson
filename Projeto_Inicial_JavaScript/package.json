@@ -1,0 +1,24 @@
+{
+  "name": "desenvolvimento_back-end",
+  "version": "1.0.0",
+  "description": "Projeto Inicial de JavaScript",
+  "homepage": "https://github.com/BrunoLeite456/Desenvolvimento_Back-end_Jackson#readme",
+  "bugs": {
+    "url": "https://github.com/BrunoLeite456/Desenvolvimento_Back-end_Jackson/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrunoLeite456/Desenvolvimento_Back-end_Jackson.git"
+  },
+  "license": "ISC",
+  "author": "Bruno Leite",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --watch index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
